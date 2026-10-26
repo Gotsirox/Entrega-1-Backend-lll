@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "6adf639bd1276355e6a9838d",
+    "first_name": "Triston",
+    "last_name": "Reichel",
+    "email": "emyhm1_shemar.goyette@gmail.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a9838e",
+    "first_name": "Jovan",
+    "last_name": "Padberg",
+    "email": "xhjqkz_milford.buckridge75@yahoo.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a9838f",
+    "first_name": "Jimmie",
+    "last_name": "Leannon",
+    "email": "lnupkf_paige9@gmail.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "admin",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a98390",
+    "first_name": "Cayla",
+    "last_name": "Raynor",
+    "email": "f4m9ne_einar39@hotmail.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a98391",
+    "first_name": "Guido",
+    "last_name": "Kozey",
+    "email": "jgmhk1_marshall60@yahoo.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a98392",
+    "first_name": "Martin",
+    "last_name": "Sauer",
+    "email": "ap75bl_dwayne48@hotmail.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "admin",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a98393",
+    "first_name": "Jolie",
+    "last_name": "Schmeler",
+    "email": "mlqbdf_preston_breitenberg@hotmail.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a98394",
+    "first_name": "Weldon",
+    "last_name": "Boehm",
+    "email": "ahax8a_effie50@hotmail.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "admin",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a98395",
+    "first_name": "Melanie",
+    "last_name": "Herzog",
+    "email": "hxsbmq_riley_lehner66@yahoo.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "admin",
+    "pets": []
+  },
+  {
+    "_id": "6adf639bd1276355e6a98396",
+    "first_name": "Jerrell",
+    "last_name": "Hettinger",
+    "email": "ofmpvl_ronaldo_schumm82@gmail.com",
+    "password": "$2b$10$VWgZMfT1.ORf7NmGDw2YGeiXssCCBEnDQ6hDOaecrZn1mbps7pIQy",
+    "role": "user",
+    "pets": []
+  }
+]
